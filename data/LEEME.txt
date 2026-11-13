@@ -1,0 +1,16 @@
+Red Española de Decaimiento Forestal (ReDeC) - Sitios de estudio
+Exportación interna del 2026-11-13
+
+sitios.csv          una fila por sitio (empiece por aquí)
+equipo.csv          personas de cada sitio y su rol
+publicaciones.csv   publicaciones de cada sitio
+especies.csv        especies de cada sitio (% defoliación y mortalidad)
+variables.csv       variables medidas en cada sitio
+puntos.csv          coordenadas originales y en lon/lat (WGS84)
+geometrias.csv      polígonos en formato WKT (WGS84)
+diccionario.csv     significado de cada columna
+redec_sitios.xlsx   todo lo anterior, una hoja por tabla
+
+Todas las tablas se unen por la columna id_site.
+Campos con varios valores en una celda: separados por ' | '.
+Licencia de los datos: CC BY-NC (según el consentimiento de los autores).
