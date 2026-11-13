@@ -1,1 +1,26 @@
-/* css styles */
+/* Página "Acerca de" -------------------------------------------------- */
+
+/* Cada tarjeta mide lo que su contenido (no reparte la altura de la página) */
+.dashboard-page:has(.acerca) > .bslib-grid {
+  grid-template-rows: none !important;
+  grid-auto-rows: auto !important;
+}
+
+/* Contenido con ancho limitado y centrado */
+.acerca .card-body {
+  display: block;
+}
+.acerca .card-body > * {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.acerca table {
+  width: auto;          /* la tabla ocupa solo lo que necesita */
+  min-width: 420px;
+}
+.acerca img {
+  display: block;
+  width: 100%;
+  height: auto;
+}

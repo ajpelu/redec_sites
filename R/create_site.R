@@ -159,3 +159,33 @@ tabla <- datatable(
   )
 )
 
+
+
+# Resumen para la barra lateral: una tarjeta con tres datos
+estilo_resumen <- tags$style(HTML("
+  .resumen { margin-top: 16px; border: 1px solid #e3e6ea; border-radius: 10px;
+             background: #fff; overflow: hidden; }
+  .resumen .fila { display: flex; align-items: center; gap: 12px; padding: 10px 14px; }
+  .resumen .fila + .fila { border-top: 1px solid #f0f2f4; }
+  .resumen .ico { width: 36px; height: 36px; border-radius: 50%; display: flex;
+                  align-items: center; justify-content: center; font-size: 17px; flex: none; }
+  .resumen .num { font-size: 22px; font-weight: 600; line-height: 1; color: #1f2933; }
+  .resumen .lab { font-size: 11.5px; color: #6b7280; text-transform: uppercase;
+                  letter-spacing: .04em; margin-top: 3px; }
+"))
+
+dato <- function(valor, titulo, icono, color) {
+  div(class = "fila",
+      div(class = "ico", style = paste0("background:", color, "1f;color:", color),  # 1f = fondo translúcido
+          tags$i(class = paste0("bi bi-", icono))),
+      div(div(class = "num", format(valor, big.mark = ".")),
+          div(class = "lab", titulo)))
+}
+
+resumen <- tagList(
+  estilo_resumen,
+  div(class = "resumen",
+      dato(nrow(d),                         "Sitios",                      "geo-alt-fill", "#2E7D32"),
+      dato(n_distinct(d$especie_principal), "Especies principales",        "tree-fill",    "#6A4C93"),
+      dato(n_distinct(d$responsable),       "Investigadores responsables", "people-fill",  "#37474F"))
+)

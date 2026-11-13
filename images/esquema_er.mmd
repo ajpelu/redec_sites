@@ -1,0 +1,84 @@
+erDiagram
+  SITIOS ||--o{ PUNTOS : "tiene"
+  SITIOS ||--o{ SITIO_PERSONA : "equipo"
+  PERSONAS ||--o{ SITIO_PERSONA : "participa"
+  PERSONAS ||--o{ EMAILS : "tiene"
+  SITIOS ||--o{ SITIO_PUBLICACION : "publicado en"
+  PUBLICACIONES ||--o{ SITIO_PUBLICACION : "trata"
+  SITIOS ||--o{ SITIO_ESPECIE : "especies"
+  ESPECIES ||--o{ SITIO_ESPECIE : "catálogo"
+  SITIOS ||--o{ SITIO_ATRIBUTO : "atributos"
+  VOCABULARIO ||--o{ SITIO_ATRIBUTO : "valores"
+  SITIOS ||--o{ SITIO_VARIABLE : "mide"
+  VARIABLES ||--o{ SITIO_VARIABLE : "catálogo"
+
+  SITIOS {
+    text id_site PK
+    text nombre_sitio
+    real defol_sitio
+    real mort_sitio
+    text seguimiento_activo
+    text wkt
+  }
+  PUNTOS {
+    int id_punto PK
+    text id_site FK
+    real x
+    real y
+    int epsg
+  }
+  PERSONAS {
+    int id_persona PK
+    text nombre
+    text apellidos
+  }
+  EMAILS {
+    text email PK
+    int id_persona FK
+  }
+  SITIO_PERSONA {
+    text id_site FK
+    int id_persona FK
+    text rol
+  }
+  PUBLICACIONES {
+    int id_pub PK
+    text titulo
+    text tipo
+    text url
+  }
+  SITIO_PUBLICACION {
+    text id_site FK
+    int id_pub FK
+  }
+  SITIO_ESPECIE {
+    text id_site FK
+    text especie FK
+    text rol
+    real defoliacion
+    real mortalidad
+  }
+  ESPECIES {
+    text especie PK
+  }
+  SITIO_ATRIBUTO {
+    text id_site FK
+    text campo FK
+    text valor FK
+  }
+  VOCABULARIO {
+    text campo PK
+    text valor PK
+    text valor_en
+  }
+  SITIO_VARIABLE {
+    text id_site FK
+    text categoria FK
+    text variable FK
+    text frecuencia
+    text metodo
+  }
+  VARIABLES {
+    text categoria PK
+    text variable PK
+  }

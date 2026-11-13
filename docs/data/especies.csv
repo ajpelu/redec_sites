@@ -1,0 +1,612 @@
+﻿"id_site","especie","rol","defoliacion","mortalidad"
+"ACC01","Abies pinsapo","dominante",,
+"ACC01","Abies pinsapo","principal",,
+"AGB01","Juniperus phoenicea","dominante",,
+"AGB01","Juniperus phoenicea","principal",64,52
+"AGB02","Juniperus phoenicea","dominante",,
+"AGB02","Juniperus phoenicea","principal",42,66
+"AGB03","Abies alba","dominante",,
+"AGB03","Abies alba","principal",15,12
+"AGB04","Abies alba","dominante",,
+"AGB04","Abies alba","principal",20,18
+"AGB05","Abies alba","dominante",,
+"AGB05","Abies alba","principal",28,51
+"AGB06","Abies alba","dominante",,
+"AGB06","Abies alba","principal",22,20
+"AGB07","Abies alba","dominante",,
+"AGB07","Abies alba","principal",30,15
+"AGB08","Pinus pinaster","dominante",,
+"AGB08","Pinus pinaster","principal",90,34
+"AGB09","Pinus pinaster","dominante",,
+"AGB09","Pinus pinaster","principal",58,30
+"AGB10","Pinus halepensis","dominante",,
+"AGB10","Pinus halepensis","principal",37,20
+"AGB11","Pinus halepensis","dominante",,
+"AGB11","Pinus halepensis","principal",31,15
+"AGB12","Pinus halepensis","dominante",,
+"AGB12","Pinus halepensis","principal",48,15
+"AHM01","Pinus sylvestris","dominante",,
+"AHM01","Pinus sylvestris","principal",,62
+"AHM01","Pinus nigra","secundaria",,48
+"ALL01","Quercus ilex ssp. ballota","dominante",,
+"ALL01","Quercus ilex ssp. ballota","principal",30,0
+"ALL02","Quercus ilex ssp. ballota","dominante",,
+"ALL02","Quercus ilex ssp. ballota","principal",0,0
+"APP03","Pinus halepensis","dominante",,
+"APP03","Pinus halepensis","principal",60,75
+"APP04","Pinus halepensis","dominante",,
+"APP04","Pinus halepensis","principal",10,20
+"APP05","Pinus nigra","dominante",,
+"APP05","Pinus nigra","principal",40,40
+"APP05","Pinus sylvestris","secundaria",20,30
+"APP06","Pinus pinaster","dominante",,
+"APP06","Pinus pinaster","principal",10,30
+"APP06","Pinus sylvestris","secundaria",10,10
+"APP07","Pinus sylvestris","dominante",,
+"APP07","Pinus sylvestris","principal",40,60
+"APP07","Pinus pinaster","secundaria",0,10
+"ARR01","Abies alba","dominante",,
+"ARR01","Abies alba","principal",20,15
+"ARR02","Pinus sylvestris","dominante",,
+"ARR02","Pinus sylvestris","principal",19,14
+"ARR03","Abies alba","dominante",,
+"ARR03","Abies alba","principal",28,23
+"ARR04","Pinus sylvestris","dominante",,
+"ARR04","Pinus sylvestris","principal",17,12
+"ASS01","Quercus ilex ssp. ballota","dominante",,
+"ASS01","Quercus ilex ssp. ballota","principal",42,50
+"ASS01","Quercus suber","secundaria",14,36
+"AVC01","Pinus halepensis","dominante",,
+"AVC01","Pinus halepensis","principal",0,0
+"AVC02","Pinus halepensis","dominante",,
+"AVC02","Pinus halepensis","principal",80,80
+"AVC03","Pinus halepensis","dominante",,
+"AVC03","Pinus halepensis","principal",60,35
+"AVC04","Pinus halepensis","dominante",,
+"AVC04","Pinus halepensis","principal",60,90
+"CAA01","Pinus halepensis","dominante",,
+"CAA01","Pinus halepensis","principal",,
+"CAA01","Pinus nigra","secundaria",,
+"CAA01","Pinus pinaster","otra",,
+"CAA01","Pinus sylvestris","otra",,
+"CAA02","Pinus sylvestris","dominante",,
+"CAA02","Pinus sylvestris","principal",50,
+"CMM03","Pinus sylvestris","dominante",,
+"CMM03","Pinus sylvestris","principal",31,7
+"EAA01","Pinus sylvestris","dominante",,
+"EAA01","Pinus pinaster","principal",30,10
+"EAA01","Pinus sylvestris","secundaria",30,10
+"EAA02","Pinus sylvestris","dominante",,
+"EAA02","Pinus sylvestris","principal",50,60
+"EBP01","Pinus nigra","dominante",,
+"EBP01","Pinus nigra","principal",48.12,1.84
+"EBP01","Pinus sylvestris","secundaria",34.41,0
+"EBP02","Pinus nigra","dominante",,
+"EBP02","Pinus nigra","principal",32.81,7.91
+"EBP02","Pinus sylvestris","secundaria",0,1.48
+"EBP03","Pinus nigra","dominante",,
+"EBP03","Pinus nigra","principal",34.28,0
+"EBP03","Quercus ilex ssp. ballota","secundaria",,
+"EBP04","Pinus nigra","dominante",,
+"EBP04","Pinus nigra","principal",34.6,0
+"EBP04","Quercus ilex ssp. ballota","secundaria",,
+"EBP05","Pinus nigra","dominante",,
+"EBP05","Pinus nigra","principal",48.66,17.37
+"EBP06","Pinus nigra","dominante",,
+"EBP06","Pinus nigra","principal",53.4,11.54
+"EBP06","Pinus sylvestris","secundaria",60.45,16.6
+"EBP07","Pinus nigra","dominante",,
+"EBP07","Pinus nigra","principal",37.9,0
+"EBP07","Pinus sylvestris","secundaria",100,3.51
+"EBP08","Pinus nigra","dominante",,
+"EBP08","Pinus nigra","principal",54.05,5.84
+"EBP08","Quercus ilex ssp. ballota","secundaria",,
+"EBP09","Pinus nigra","dominante",,
+"EBP09","Pinus nigra","principal",33.13,0
+"EBP09","Quercus ilex ssp. ballota","secundaria",,
+"EBP10","Pinus nigra","dominante",,
+"EBP10","Pinus nigra","principal",46.36,14.05
+"EBP10","Quercus ilex ssp. ballota","secundaria",,
+"EBP11","Pinus nigra","dominante",,
+"EBP11","Pinus nigra","principal",47.48,0
+"EBP11","Pinus sylvestris","secundaria",33.46,0
+"EBP12","Pinus nigra","dominante",,
+"EBP12","Pinus nigra","principal",27.5,0
+"EBP13","Pinus nigra","dominante",,
+"EBP13","Pinus nigra","principal",42.84,0
+"EBP13","Quercus ilex ssp. ballota","secundaria",,
+"EBP14","Pinus nigra","dominante",,
+"EBP14","Pinus nigra","principal",37.46,3.1
+"EBP15","Pinus nigra","dominante",,
+"EBP15","Pinus nigra","principal",46.23,0
+"EBP16","Pinus nigra","dominante",,
+"EBP16","Pinus nigra","principal",37.04,0
+"EBP17","Pinus nigra","dominante",,
+"EBP17","Pinus nigra","principal",27.04,0
+"EBP18","Pinus nigra","dominante",,
+"EBP18","Pinus nigra","principal",26.7,0
+"EBP18","Quercus ilex ssp. ballota","secundaria",,
+"EBP19","Pinus nigra","dominante",,
+"EBP19","Pinus nigra","principal",29.83,0
+"EBP19","Quercus ilex ssp. ballota","secundaria",,
+"EBP20","Pinus nigra","dominante",,
+"EBP20","Pinus nigra","principal",32.5,0
+"EBP20","Quercus ilex ssp. ballota","secundaria",,
+"EBP21","Pinus nigra","dominante",,
+"EBP21","Pinus nigra","principal",34.19,3.13
+"EBP21","Quercus ilex ssp. ballota","secundaria",,
+"EBP22","Pinus nigra","dominante",,
+"EBP22","Pinus nigra","principal",38.16,0
+"EBP22","Pinus sylvestris","secundaria",51.36,2.84
+"EBP23","Pinus nigra","dominante",,
+"EBP23","Pinus nigra","principal",18.02,0
+"EBP24","Pinus nigra","dominante",,
+"EBP24","Pinus nigra","principal",56.02,3.81
+"EBP24","Pinus sylvestris","secundaria",65,9.96
+"EBP25","Pinus nigra","dominante",,
+"EBP25","Pinus nigra","principal",22.69,0
+"EBP25","Pinus sylvestris","secundaria",29.65,0
+"EBP26","Pinus nigra","dominante",,
+"EBP26","Pinus nigra","principal",18.94,0
+"EBP26","Quercus ilex ssp. ballota","secundaria",,
+"EBP27","Pinus nigra","dominante",,
+"EBP27","Pinus nigra","principal",23.74,5.67
+"EBP27","Quercus ilex ssp. ballota","secundaria",,
+"EBP28","Pinus nigra","dominante",,
+"EBP28","Pinus nigra","principal",16.49,0
+"EBP29","Pinus nigra","dominante",,
+"EBP29","Pinus nigra","principal",8.94,0
+"EBP29","Pinus sylvestris","secundaria",21.41,0
+"EBP30","Pinus nigra","dominante",,
+"EBP30","Pinus nigra","principal",30,8.46
+"EBP30","Quercus ilex ssp. ballota","secundaria",,
+"GGG01","Pinus sylvestris","dominante",,
+"GGG01","Pinus sylvestris","principal",44,
+"GGG02","Pinus pinaster","dominante",,
+"GGG02","Pinus pinaster","principal",60,
+"GGG02","Pinus pinea","secundaria",53,
+"GSB01","Pinus sylvestris","dominante",,
+"GSB01","Pinus sylvestris","principal",50,30
+"JCC01","Pinus halepensis","dominante",,
+"JCC01","Erica arborea","principal",75,53
+"JCC01","Quercus ilex ssp. ilex","secundaria",,
+"JCC01","Arbutus unedo","otra",,
+"JCC01","Pinus pinea","otra",,
+"JCC01","Quercus petraea","otra",,
+"JCC01","Quercus pubescens","otra",,
+"JCC02","Quercus ilex ssp. ilex","dominante",,
+"JCC02","Erica arborea","principal",75,50
+"JCC02","Quercus ilex ssp. ilex","secundaria",35,13
+"JCC02","Arbutus unedo","otra",,
+"JCC02","Pinus halepensis","otra",,
+"JCC02","Pinus nigra","otra",,
+"JCC03","Quercus petraea","dominante",,
+"JCC03","Quercus petraea","principal",7,3
+"JCC03","Quercus ilex ssp. ilex","secundaria",,
+"JCC03","Pinus halepensis","otra",,
+"JCC03","Pinus sylvestris","otra",,
+"JCF26","Abies pinsapo","dominante",,
+"JCF26","Abies pinsapo","principal",50,25
+"JCY01","Quercus faginea","dominante",,
+"JCY01","Quercus faginea","principal",25,10
+"JEM01","Pinus halepensis","dominante",,
+"JEM01","Pinus halepensis","principal",85.01,0
+"JEM02","Pinus halepensis","dominante",,
+"JEM02","Pinus halepensis","principal",56.35,0
+"JEM03","Pinus halepensis","dominante",,
+"JEM03","Pinus halepensis","principal",72.38,0
+"JEM04","Pinus halepensis","dominante",,
+"JEM04","Pinus halepensis","principal",38.33,0
+"JEM05","Pinus halepensis","dominante",,
+"JEM05","Pinus halepensis","principal",50.9,0
+"JEM06","Pinus halepensis","dominante",,
+"JEM06","Pinus halepensis","principal",78.65,17.19
+"JEM07","Pinus halepensis","dominante",,
+"JEM07","Pinus halepensis","principal",31.97,5.8
+"JEM08","Pinus halepensis","dominante",,
+"JEM08","Pinus halepensis","principal",27.92,0
+"JEM09","Pinus halepensis","dominante",,
+"JEM09","Pinus halepensis","principal",77.38,36.03
+"JEM10","Pinus halepensis","dominante",,
+"JEM10","Pinus halepensis","principal",40.97,0
+"JEM11","Pinus halepensis","dominante",,
+"JEM11","Pinus halepensis","principal",13.04,0
+"JEM12","Pinus halepensis","dominante",,
+"JEM12","Pinus halepensis","principal",60.19,0
+"JEM13","Pinus halepensis","dominante",,
+"JEM13","Pinus halepensis","principal",38.73,0
+"JEM14","Pinus halepensis","dominante",,
+"JEM14","Pinus halepensis","principal",66.77,4.75
+"JEM15","Pinus halepensis","dominante",,
+"JEM15","Pinus halepensis","principal",43.66,4.56
+"JEM16","Pinus halepensis","dominante",,
+"JEM16","Pinus halepensis","principal",43.95,0
+"JEM17","Pinus halepensis","dominante",,
+"JEM17","Pinus halepensis","principal",74.4,6.08
+"JEM18","Pinus halepensis","dominante",,
+"JEM18","Pinus halepensis","principal",70.27,20.38
+"JEM19","Pinus halepensis","dominante",,
+"JEM19","Pinus halepensis","principal",80.19,11.79
+"JEM20","Pinus halepensis","dominante",,
+"JEM20","Pinus halepensis","principal",68.7,0
+"JEM21","Pinus halepensis","dominante",,
+"JEM21","Pinus halepensis","principal",66.81,0
+"JEM22","Pinus halepensis","dominante",,
+"JEM22","Pinus halepensis","principal",56.1,0
+"JEM23","Pinus halepensis","dominante",,
+"JEM23","Pinus halepensis","principal",71.47,29.99
+"JEM24","Pinus halepensis","dominante",,
+"JEM24","Pinus halepensis","principal",20.69,42.41
+"JEM25","Pinus halepensis","dominante",,
+"JEM25","Pinus halepensis","principal",46.72,0
+"JEM26","Pinus halepensis","dominante",,
+"JEM26","Pinus halepensis","principal",68.4,0
+"JEM27","Pinus halepensis","dominante",,
+"JEM27","Pinus halepensis","principal",57.44,20.74
+"JEM28","Pinus halepensis","dominante",,
+"JEM28","Pinus halepensis","principal",70.06,0
+"JEM29","Pinus halepensis","dominante",,
+"JEM29","Pinus halepensis","principal",50.05,6.74
+"JEM30","Pinus halepensis","dominante",,
+"JEM30","Pinus halepensis","principal",46.34,0
+"JEM31","Pinus sylvestris","dominante",,
+"JEM31","Pinus sylvestris","principal",64.99,36.5
+"JEM32","Pinus sylvestris","dominante",,
+"JEM32","Pinus sylvestris","principal",73.21,20.95
+"JEM33","Pinus sylvestris","dominante",,
+"JEM33","Pinus sylvestris","principal",79.38,33.13
+"JEM34","Pinus sylvestris","dominante",,
+"JEM34","Pinus sylvestris","principal",52.78,5.74
+"JEM35","Pinus sylvestris","dominante",,
+"JEM35","Pinus sylvestris","principal",51.07,3.53
+"JEM36","Pinus sylvestris","dominante",,
+"JEM36","Pinus sylvestris","principal",35.84,4.95
+"JEM37","Pinus sylvestris","dominante",,
+"JEM37","Pinus sylvestris","principal",64.53,24.49
+"JEM38","Pinus sylvestris","dominante",,
+"JEM38","Pinus sylvestris","principal",52.1,13.88
+"JEM39","Pinus sylvestris","dominante",,
+"JEM39","Pinus sylvestris","principal",63.18,4.86
+"JEM40","Pinus sylvestris","dominante",,
+"JEM40","Pinus sylvestris","principal",58.23,0
+"JEM41","Pinus sylvestris","dominante",,
+"JEM41","Pinus sylvestris","principal",61.57,9.04
+"JEM42","Pinus sylvestris","dominante",,
+"JEM42","Pinus sylvestris","principal",60.75,3.1
+"JEM43","Pinus sylvestris","dominante",,
+"JEM43","Pinus sylvestris","principal",63.62,0
+"JEM44","Pinus sylvestris","dominante",,
+"JEM44","Pinus sylvestris","principal",54.16,0
+"JEM45","Pinus sylvestris","dominante",,
+"JEM45","Pinus sylvestris","principal",56.87,2.03
+"JEM46","Pinus sylvestris","dominante",,
+"JEM46","Pinus sylvestris","principal",51.91,0
+"JEM47","Pinus sylvestris","dominante",,
+"JEM47","Pinus sylvestris","principal",54.69,8.76
+"JEM48","Pinus sylvestris","dominante",,
+"JEM48","Pinus sylvestris","principal",54.09,0
+"JEM49","Pinus sylvestris","dominante",,
+"JEM49","Pinus sylvestris","principal",75.75,0
+"JEM50","Pinus sylvestris","dominante",,
+"JEM50","Pinus sylvestris","principal",42.82,1.79
+"JEM51","Pinus sylvestris","dominante",,
+"JEM51","Pinus sylvestris","principal",25.54,0
+"JEM52","Pinus sylvestris","dominante",,
+"JEM52","Pinus sylvestris","principal",38.77,6.35
+"JEM53","Pinus sylvestris","dominante",,
+"JEM53","Pinus sylvestris","principal",28.51,0
+"JEM54","Pinus sylvestris","dominante",,
+"JEM54","Pinus sylvestris","principal",38.65,0
+"JEM55","Pinus sylvestris","dominante",,
+"JEM55","Pinus sylvestris","principal",35.11,7.16
+"JEM56","Pinus sylvestris","dominante",,
+"JEM56","Pinus sylvestris","principal",51.63,0
+"JEM57","Pinus sylvestris","dominante",,
+"JEM57","Pinus sylvestris","principal",41.18,0
+"JEM58","Pinus sylvestris","dominante",,
+"JEM58","Pinus sylvestris","principal",23.38,5.6
+"JEM59","Pinus sylvestris","dominante",,
+"JEM59","Pinus sylvestris","principal",41.9,47.52
+"JEM60","Pinus sylvestris","dominante",,
+"JEM60","Pinus sylvestris","principal",58.28,0
+"JEM61","Pinus sylvestris","dominante",,
+"JEM61","Pinus sylvestris","principal",43.8,3.28
+"JEM62","Pinus sylvestris","dominante",,
+"JEM62","Pinus sylvestris","principal",29.51,0
+"JGA29","Pinus pinaster","dominante",,
+"JGA29","Pinus pinaster","principal",75,75
+"JHC01","Pinus halepensis","dominante",,
+"JHC01","Pinus halepensis","principal",,20
+"JHC01","Buxus balearica","secundaria",,
+"JLC01","Abies pinsapo","dominante",,
+"JLC01","Abies pinsapo","principal",20,20
+"JMM01","Pinus sylvestris","dominante",,
+"JMM01","Pinus sylvestris","principal",,
+"JMM02","Pinus sylvestris","dominante",,
+"JMM02","Pinus sylvestris","principal",40,60
+"JMV01","Pinus sylvestris","dominante",,
+"JMV01","Pinus sylvestris","principal",50,50
+"JQP01","Quercus ilex ssp. ballota","dominante",,
+"JQP01","Quercus ilex ssp. ballota","principal",50,15
+"JQP01","Quercus suber","secundaria",30,5
+"JRC01","Fagus sylvatica","dominante",,
+"JRC01","Quercus pyrenaica","principal",20,10
+"JRC01","Crataegus monogyna","secundaria",20,25
+"JRC01","Erica australis","otra",,
+"JRC01","Fagus sylvatica","otra",,
+"JRC01","Sorbus aucuparia","otra",,
+"JTR01","Pinus pinea","dominante",,
+"JTR01","Pinus pinea","principal",56,50
+"JTR01","Juniperus phoenicea","secundaria",,40
+"LGA01","Quercus suber","dominante",,
+"LGA01","Quercus suber","principal",36,38
+"LGA01","Olea europaea","secundaria",0,0
+"LGA02","Quercus suber","dominante",,
+"LGA02","Quercus suber","principal",14,7
+"LGA02","Olea europaea","secundaria",0,0
+"LGA03","Quercus suber","dominante",,
+"LGA03","Quercus suber","principal",63,5
+"LGA03","Olea europaea","secundaria",0,0
+"LGA04","Quercus suber","dominante",,
+"LGA04","Quercus suber","principal",26,33
+"LGA04","Quercus canariensis","secundaria",0,0
+"LGA05","Quercus suber","dominante",,
+"LGA05","Quercus suber","principal",39,15
+"LGA05","Quercus canariensis","secundaria",0,0
+"LGA06","Quercus suber","dominante",,
+"LGA06","Quercus suber","principal",26,14
+"LGA06","Quercus canariensis","secundaria",0,0
+"LGA07","Quercus canariensis","dominante",,
+"LGA07","Quercus suber","principal",10,2
+"LGA07","Quercus canariensis","secundaria",0,
+"LGA08","Quercus suber","dominante",,
+"LGA08","Quercus suber","principal",40,5
+"LGA08","Olea europaea","secundaria",0,0
+"LGA09","Quercus ilex ssp. ballota","dominante",,
+"LGA09","Quercus ilex ssp. ballota","principal",10,2
+"LGA10","Quercus ilex ssp. ballota","dominante",,
+"LGA10","Quercus ilex ssp. ballota","principal",22,2
+"LGA11","Quercus ilex ssp. ballota","dominante",,
+"LGA11","Quercus ilex ssp. ballota","principal",28,2
+"LGA12","Quercus ilex ssp. ballota","dominante",,
+"LGA12","Quercus ilex ssp. ballota","principal",25,5
+"LGA13","Quercus ilex ssp. ballota","dominante",,
+"LGA13","Quercus ilex ssp. ballota","principal",21,2
+"LGA14","Quercus ilex ssp. ballota","dominante",,
+"LGA14","Quercus ilex ssp. ballota","principal",27,1
+"LGA14","Quercus suber","secundaria",,
+"LGA15","Quercus ilex ssp. ballota","dominante",,
+"LGA15","Quercus ilex ssp. ballota","principal",16,2
+"LGA16","Quercus ilex ssp. ballota","dominante",,
+"LGA16","Quercus ilex ssp. ballota","principal",50,20
+"LGA17","Quercus ilex ssp. ballota","dominante",,
+"LGA17","Quercus ilex ssp. ballota","principal",53,3
+"LGA18","Quercus ilex ssp. ballota","dominante",,
+"LGA18","Quercus ilex ssp. ballota","principal",28,0
+"LGA19","Quercus ilex ssp. ballota","dominante",,
+"LGA19","Quercus ilex ssp. ballota","principal",33,5
+"LGA20","Quercus ilex ssp. ballota","dominante",,
+"LGA20","Quercus ilex ssp. ballota","principal",32,1
+"LGA21","Quercus ilex ssp. ballota","dominante",,
+"LGA21","Quercus ilex ssp. ballota","principal",39,3
+"LGA22","Quercus ilex ssp. ballota","dominante",,
+"LGA22","Quercus ilex ssp. ballota","principal",25,2
+"LGA23","Quercus ilex ssp. ballota","dominante",,
+"LGA23","Quercus ilex ssp. ballota","principal",51,15
+"LGA24","Quercus ilex ssp. ballota","dominante",,
+"LGA24","Quercus ilex ssp. ballota","principal",21,0
+"LGA25","Quercus ilex ssp. ballota","dominante",,
+"LGA25","Quercus ilex ssp. ballota","principal",36,7
+"LGA26","Quercus ilex ssp. ballota","dominante",,
+"LGA26","Quercus ilex ssp. ballota","principal",28,7
+"LGA27","Quercus ilex ssp. ballota","dominante",,
+"LGA27","Quercus ilex ssp. ballota","principal",19,0
+"LGA28","Quercus ilex ssp. ballota","dominante",,
+"LGA28","Quercus ilex ssp. ballota","principal",47,20
+"LGA29","Quercus ilex ssp. ballota","dominante",,
+"LGA29","Quercus ilex ssp. ballota","principal",9,1
+"LJG01","Pinus uncinata","dominante",,
+"LJG01","Pinus uncinata","principal",59,50
+"LJG01","Pinus sylvestris","secundaria",54,32
+"LJJ01","Pinus uncinata","dominante",,
+"LJJ01","Pinus uncinata","principal",70,68
+"LJJ02","Pinus uncinata","dominante",,
+"LJJ02","Pinus uncinata","principal",37,27
+"LJJ03","Pinus uncinata","dominante",,
+"LJJ03","Pinus uncinata","principal",68,53
+"LJJ04","Pinus uncinata","dominante",,
+"LJJ04","Pinus uncinata","principal",67,52.8
+"LJJ04","Pinus sylvestris","secundaria",58,0
+"LJJ05","Pinus uncinata","dominante",,
+"LJJ05","Pinus uncinata","principal",59,37.5
+"LJJ06","Pinus uncinata","dominante",,
+"LJJ06","Pinus uncinata","principal",45,37.2
+"LJJ07","Pinus uncinata","dominante",,
+"LJJ07","Pinus uncinata","principal",61,52.2
+"LJJ07","Pinus sylvestris","secundaria",44,40
+"LJJ08","Pinus uncinata","dominante",,
+"LJJ08","Pinus uncinata","principal",50,41.8
+"LJJ09","Pinus uncinata","dominante",,
+"LJJ09","Pinus uncinata","principal",77,75
+"LJJ09","Pinus sylvestris","secundaria",60.8,54.5
+"LJJ10","Pinus uncinata","dominante",,
+"LJJ10","Pinus uncinata","principal",69.9,65.3
+"LJJ11","Pinus uncinata","dominante",,
+"LJJ11","Pinus uncinata","principal",42.6,37.1
+"LMR01","Quercus suber","dominante",,
+"LMR01","Quercus suber","principal",25,20
+"LMR01","Quercus canariensis","secundaria",,
+"MFL01","Pinus sylvestris","dominante",,
+"MFL01","Pinus sylvestris","principal",,
+"MFL02","Pinus sylvestris","dominante",,
+"MFL02","Pinus sylvestris","principal",,
+"MFL03","Pinus pinaster","dominante",,
+"MFL03","Pinus pinaster","principal",,
+"MFL04","Pinus pinaster","dominante",,
+"MFL04","Pinus pinaster","principal",,
+"MFL05","Pinus sylvestris","dominante",,
+"MFL05","Pinus sylvestris","principal",,
+"MFL06","Pinus sylvestris","dominante",,
+"MFL06","Pinus sylvestris","principal",,
+"MFL07","Pinus sylvestris","dominante",,
+"MFL07","Pinus sylvestris","principal",,
+"MFL08","Pinus pinaster","dominante",,
+"MFL08","Pinus pinaster","principal",,
+"MFL09","Pinus sylvestris","dominante",,
+"MFL09","Pinus sylvestris","principal",,
+"MFL10","Pinus pinaster","dominante",,
+"MFL10","Pinus pinaster","principal",,
+"MFL11","Pinus sylvestris","dominante",,
+"MFL11","Pinus sylvestris","principal",,
+"MGA02","Pinus pinea","dominante",,
+"MGA02","Pinus pinea","principal",35,15
+"MRG01","Pinus pinaster","dominante",,
+"MRG01","Pinus pinaster","principal",10,1
+"MRG01","Pinus pinea","secundaria",,
+"MVV01","Quercus ilex ssp. ballota","dominante",,
+"MVV01","Quercus ilex ssp. ballota","principal",50,15
+"MZG01","Pinus sylvestris","dominante",,
+"MZG01","Pinus sylvestris","principal",40,17
+"PRB04","Pinus pinea","dominante",,
+"PRB04","Pinus pinea","principal",70,
+"RAC01","Pinus nigra","dominante",,
+"RAC01","Pinus sylvestris","principal",,
+"RAC01","Pinus nigra","secundaria",,
+"RAC01","Pinus pinaster","otra",,
+"RAC02","Pinus sylvestris","dominante",,
+"RAC02","Pinus sylvestris","principal",,
+"RAC02","Pinus nigra","secundaria",,
+"RAC03","Pinus nigra","dominante",,
+"RAC03","Pinus sylvestris","principal",,
+"RAC03","Pinus nigra","secundaria",,
+"RAC03","Pinus pinaster","otra",,
+"RAC04","Pinus pinaster","dominante",,
+"RAC04","Pinus sylvestris","principal",10.16,
+"RAC04","Pinus nigra","secundaria",,
+"RAC04","Pinus pinaster","otra",,
+"RAC04","Quercus ilex ssp. ballota","otra",,
+"RAC05","Pinus nigra","dominante",,
+"RAC05","Pinus nigra","principal",4.9,
+"RAC05","Pinus pinaster","secundaria",,
+"RAC05","Quercus ilex ssp. ballota","otra",,
+"RAC06","Pinus pinaster","dominante",,
+"RAC06","Pinus sylvestris","principal",5.83,
+"RAC06","Pinus pinaster","secundaria",,
+"RAC06","Pinus nigra","otra",,
+"RAC06","Quercus ilex ssp. ballota","otra",,
+"RAC07","Pinus sylvestris","dominante",,
+"RAC07","Pinus sylvestris","principal",7.6,
+"RAC07","Pinus pinaster","secundaria",,
+"RAC07","Pinus nigra","otra",,
+"RAC08","Pinus sylvestris","dominante",,
+"RAC08","Pinus sylvestris","principal",6,
+"RAC08","Pinus pinaster","secundaria",,
+"RAC08","Quercus ilex ssp. ballota","otra",,
+"RAC09","Pinus halepensis","dominante",,
+"RAC09","Pinus halepensis","principal",11.03,
+"RAC09","Pinus pinaster","secundaria",,
+"RAC09","Quercus ilex ssp. ballota","otra",,
+"RCS01","Pinus pinea","dominante",,
+"RCS01","Pinus pinea","principal",30,20
+"RCS01","Quercus ilex ssp. ballota","secundaria",20,
+"RHC02","Quercus ilex ssp. ballota","dominante",,
+"RHC02","Quercus ilex ssp. ballota","principal",60,20
+"RHC03","Pinus nigra","dominante",,
+"RHC03","Pinus nigra","principal",50,20
+"RHC03","Pinus sylvestris","secundaria",50,20
+"RLR01","Pinus canariensis","dominante",,
+"RLR01","Pinus canariensis","principal",60,5
+"RMP01","Quercus suber","dominante",,
+"RMP01","Quercus suber","principal",,
+"RMP01","Quercus ilex ssp. ballota","secundaria",,
+"RMP02","Quercus ilex ssp. ballota","dominante",,
+"RMP02","Quercus ilex ssp. ballota","principal",75,85
+"RMP02","Quercus suber","secundaria",75,85
+"RSM01","Quercus pyrenaica","dominante",,
+"RSM01","Quercus pyrenaica","principal",40,10
+"RSS01","Quercus ilex ssp. ballota","dominante",,
+"RSS01","Pinus nigra","principal",25,15
+"RSS01","Pinus nigra","secundaria",80,70
+"RSS02","Pinus pinaster","dominante",,
+"RSS02","Pinus pinaster","principal",75,40
+"RSS02","Quercus ilex ssp. ballota","otra",,
+"RSS03","Quercus suber","dominante",,
+"RSS03","Quercus canariensis","principal",75,25
+"RSS03","Quercus suber","secundaria",45,25
+"RSS04","Pinus pinaster","dominante",,
+"RSS04","Pinus pinaster","principal",50,35
+"RSS04","Pinus halepensis","secundaria",,
+"RSS04","Quercus ilex ssp. ballota","otra",,
+"RSS05","Pinus halepensis","dominante",,
+"RSS05","Pinus pinaster","principal",65,40
+"RSS05","Pinus halepensis","secundaria",40,10
+"RSS06","Pinus pinaster","dominante",,
+"RSS06","Pinus pinaster","principal",70,50
+"RSS07","Pinus pinaster","dominante",,
+"RSS07","Pinus pinaster","principal",50,25
+"RSS07","Pinus nigra","secundaria",35,20
+"RSS08","Pinus pinaster","dominante",,
+"RSS08","Pinus pinaster","principal",50,25
+"RSS09","Pinus pinaster","dominante",,
+"RSS09","Pinus pinaster","principal",55,35
+"RSS10","Pinus pinaster","dominante",,
+"RSS10","Pinus pinaster","principal",55,35
+"RSS11","Pinus halepensis","dominante",,
+"RSS11","Pinus halepensis","principal",80,75
+"RSS11","Pinus pinaster","secundaria",,
+"RSS12","Pinus halepensis","dominante",,
+"RSS12","Pinus halepensis","principal",75,50
+"RSS12","Pinus pinaster","secundaria",,
+"RSS13","Pinus halepensis","dominante",,
+"RSS13","Pinus halepensis","principal",60,35
+"RSS13","Pinus pinaster","secundaria",,
+"RSS14","Pinus pinaster","dominante",,
+"RSS14","Pinus pinaster","principal",40,25
+"RSS14","Pinus halepensis","secundaria",,
+"RSS15","Pinus pinaster","dominante",,
+"RSS15","Pinus pinaster","principal",65,35
+"RSS15","Pinus nigra","secundaria",,
+"RSS16","Pinus sylvestris","dominante",,
+"RSS16","Pinus sylvestris","principal",50,30
+"RSS16","Pinus pinaster","secundaria",,
+"RSS17","Abies pinsapo","dominante",,
+"RSS17","Abies pinsapo","principal",45,15
+"RSS18","Pinus halepensis","dominante",,
+"RSS18","Pinus halepensis","principal",60,35
+"RSS19","Pinus halepensis","dominante",,
+"RSS19","Pinus halepensis","principal",70,25
+"RSS20","Pinus pinea","dominante",,
+"RSS20","Pinus pinea","principal",80,55
+"RSS21","Pinus pinaster","dominante",,
+"RSS21","Pinus pinaster","principal",50,25
+"RSS22","Quercus ilex ssp. ballota","dominante",,
+"RSS22","Quercus ilex ssp. ballota","principal",75,55
+"RSS23","Quercus ilex ssp. ballota","dominante",,
+"RSS23","Quercus ilex ssp. ballota","principal",55,15
+"RSS24","Abies pinsapo","dominante",,
+"RSS24","Abies pinsapo","principal",40,10
+"RSS25","Abies pinsapo","dominante",,
+"RSS25","Abies pinsapo","principal",40,10
+"RSS27","Pinus sylvestris","dominante",,
+"RSS27","Pinus sylvestris","principal",70,45
+"RSS27","Pinus nigra","secundaria",65,35
+"RSS28","Pinus pinaster","dominante",,
+"RSS28","Pinus pinaster","principal",60,25
+"RSS28","Pinus pinea","secundaria",50,20
+"RSS30","Pinus pinaster","dominante",,
+"RSS30","Pinus pinaster","principal",85,80
+"RSS30","Pinus pinea","secundaria",40,20
+"RSS31","Pinus pinea","dominante",,
+"RSS31","Pinus pinea","principal",65,40
+"RSS32","Pinus pinea","dominante",,
+"RSS32","Pinus pinea","principal",65,40
+"XSI01","Pinus nigra","dominante",,
+"XSI01","Pinus nigra","principal",25,10
+"XSI02","Pinus sylvestris","dominante",,
+"XSI02","Pinus sylvestris","principal",25,15
+"XSI03","Fagus sylvatica","dominante",,
+"XSI03","Fagus sylvatica","principal",68,10
+"XSI04","Abies alba","dominante",,
+"XSI04","Abies alba","principal",10,5
+"XSI05","Abies alba","dominante",,
+"XSI05","Abies alba","principal",10,5
